@@ -1,7 +1,8 @@
 # Global_Economic_Indicators
 This visualisation file showcases the yearly data from the world bank to analyse world countries by their population and economic output.
 
-**Data Analysis Summary: Global Economic Indicators**
+**Data Analysis Summary: Global Economic Indicators**   
+
 The dataset sourced from the World Bank (worldbank.org) offers comprehensive insights into yearly data, allowing a thorough analysis of countries worldwide based on population and economic output. The focus on the pivotal year 2020 provides a unique perspective on global financial dynamics, particularly in the context of significant events such as the COVID-19 pandemic. This analysis not only sheds light on the impact of unprecedented events but also unveils trends, challenges, and opportunities crucial for shaping future economic strategies and policies. Key economic indicators, including GDP, GDP per capita, and population total, were visualized, spanning from 1973 to 2021.
 
 **Detailed Analysis:**
