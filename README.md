@@ -21,7 +21,8 @@ The dataset sourced from the World Bank (worldbank.org) offers comprehensive ins
 ·       The drill-through feature allows users to access detailed information on the annual economic overview, GDP annual growth percentage, and GDP by year for different countries, spanning from 1973 to 2021.
  
 In conclusion, the analysis of global economic indicators for 2020 reveals key insights, such as the United States leading in GDP and China in population. Monaco boasts the highest GDP per capita. This summary aims to provide a comprehensive understanding of the global economic landscape in 2020 and offers actionable insights for strategic decision-making and policy formulation.
-Recommendations:
+
+**Recommendations:**  
 1. In-Depth Country Analysis: Utilize the drill-through feature to conduct a thorough examination of specific countries, exploring their annual economic overviews and identifying patterns in GDP growth.
 2. Policy Formulation: Leverage the insights gained to inform the formulation of economic policies, especially considering global events such as the COVID-19 pandemic.
 3. Identify Opportunities: Identify potential opportunities for economic growth by studying countries that demonstrated resilience or growth during challenging times.
