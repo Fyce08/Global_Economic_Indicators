@@ -28,4 +28,4 @@ In conclusion, the analysis of global economic indicators for 2020 reveals key i
 3. Identify Opportunities: Identify potential opportunities for economic growth by studying countries that demonstrated resilience or growth during challenging times.
 4. Global Comparisons: Compare economic indicators across countries to understand relative strengths and weaknesses, aiding in the development of a globally informed economic strategy.
 5. Long-Term Trends: Extend the analysis beyond 2020 to identify and understand long-term economic trends, enabling proactive policymaking.
-Metadata: Refer to the last page for metadata, providing transparency on the resources used to construct this report
+Metadata: Refer to the last page for metadata, providing transparency on the resources used to construct this report.
